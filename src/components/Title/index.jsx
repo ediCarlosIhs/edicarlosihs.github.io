@@ -18,7 +18,7 @@ export default function Title() {
               <li className="title__network--name">Frontendmentor</li>
             </ul>
             <ul className="title__network">
-              <li className="title__network__item"><a href="https://github.com/ediCarlosSilva" target="_blank"
+              <li className="title__network__item"><a href="https://github.com/ediCarlosIhs" target="_blank"
                 title="github" rel="noreferrer">Github</a></li>
               <li className="title__network--name">Github</li>
             </ul>
