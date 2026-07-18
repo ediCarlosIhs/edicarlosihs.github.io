@@ -6,7 +6,7 @@ export default function Footer() {
     <section className="footer">
       <div className="footer__rodape">
         <h2>{i18n.t("footer.desenvolvido")} Edi Carlos</h2>
-        <p>2024</p>
+        <p>2026</p>
       </div>
     </section>
   );
